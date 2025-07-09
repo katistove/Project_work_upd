@@ -1,0 +1,10 @@
+tower_defence/
+├── main.py            # Основной игровой цикл
+├── database.py        # Работа с рекордами
+├── game_logic.py      # Логика игры
+├── assets/            # Папка с графикой
+│   ├── tower.png      # Изображение башни
+│   ├── enemy.png      # Изображение врага
+│   ├── base.png       # Изображение базы
+│   └── background.png # Фон игры
+└── requirements.txt   # Зависимости
